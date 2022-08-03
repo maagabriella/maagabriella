@@ -17,7 +17,7 @@
   
   ##
  
-<img align="right" alt="Gabi-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/987511192106971146/1004168390820245604/download20220802202244.png">
+<img align="right" alt="Gabi-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/987511192106971146/1004168390820245604/download20220802202244.png">
 </div>
  
   ##
